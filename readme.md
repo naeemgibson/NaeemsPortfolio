@@ -1,29 +1,18 @@
 
-# Project 2
+# Naeem's Portfolio 
 
-## What's In The Fridge?
+## Just The Landing Page
 
 --------
 
-## SPA Details 
+## Overview
 "What's In The Fridge?" web app is a socio-economical food website aimed at helping people create recipes from miscellaneous unused food items they have in their refrigerator. The mission of the app is to help eliminate the food waste crisis we have in the United States.
-
---------
-
-## User Stories
-- As a user, search ingredients and get recipe search results.
-- As a user, I want to save recipes I like.
-- As a user, I want to  be able to filter my search by diet
-- As a user, I want to create a recipe and save.
 
 --------
 
 # Technologies Used
 - HTML
 - CSS
-- ES6
-- React
-- Sass
 --------
  
 # Wireframes
