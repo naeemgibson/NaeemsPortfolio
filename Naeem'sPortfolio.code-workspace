@@ -3,6 +3,9 @@
         {
             "name": "NaeemsPortfolio",
             "path": "../NaeemsPortfolio"
+        },
+        {
+            "path": "../../Responsive-Design-Projects/Portfolio/data"
         }
     ]
 }
