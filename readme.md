@@ -1,7 +1,8 @@
 
 # Naeem's Portfolio 
 
-## Just The Landing Page
+# Hi I'm Naeem and this is is how I made my portfolio page
+![Project 2 Wireframe](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Naeem.jpg?raw=true)
 
 --------
 
@@ -15,13 +16,10 @@
 - CSS
 --------
  
-# Wireframes
-![Project 2 Wireframe](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Naeem.jpg?raw=true)
-
---------
-
 ## Visual of your component hierarchy
-![Project 2 Component Hierarchy](https://media.git.generalassemb.ly/user/37250/files/09555600-ff31-11eb-928f-10ce30aa4d83)
+![Project 2 Component Hierarchy](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Screen%20Shot%202021-08-31%20at%203.01.42%20PM.png?raw=true)
+
+![Project 2 Component Hierarchy](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Screen1.png?raw=true)
 
 
 # Hardships
