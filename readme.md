@@ -16,7 +16,7 @@
 --------
  
 # Wireframes
-![Project 2 Wireframe](https://media.git.generalassemb.ly/user/37250/files/d2d40700-ff41-11eb-9b88-be8eb355da9b)
+![Project 2 Wireframe](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Naeem.jpg?raw=true)
 
 --------
 
