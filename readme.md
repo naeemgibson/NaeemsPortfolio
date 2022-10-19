@@ -1,7 +1,7 @@
 
 # Naeem's Portfolio 
 
-# Hi I'm Naeem and this is is how I made my portfolio page
+# Hi I'm Naeem and this is how I made my portfolio page
 ![Project 2 Wireframe](https://github.com/naeemgibson/NaeemsPortfolio/blob/main/data/Naeem.jpg?raw=true)
 
 --------
